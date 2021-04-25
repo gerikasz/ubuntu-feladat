@@ -1,0 +1,87 @@
+#keret {
+	color: #e0e0e0;
+	width: 1125px;
+	margin: 0 auto 0 auto;
+	padding: 0px;
+	background-color: white
+}
+#fejlec {
+	background-image: url('../kepek/omg.png');
+	width: 1125px;
+	height: 300px;
+	margin: 0px;
+}
+#torzs {
+	color: #4f4f4f;
+	background-color: #f9f9f9;
+	font-family: Arial;
+	font-size: 14px;
+	width: 1125px;
+	margin: 0px;
+	padding: 0px
+}
+#cikk{
+	color: #4f4f4f;
+	background-color: white;
+	font-family: Arial;
+	font-size: 14px;
+	float: left;
+	width: 720px;
+	margin: 0px;
+	padding: 20px
+}
+#kommentek {
+	color: #4f4f4f;
+	background-color: #efefef;
+	font-family: Arial;
+	font-size: 14px;
+	float: right;
+	width: 300px;
+	height: 1300px;
+	margin: 0px;
+	padding: 20px
+	
+}
+.komment{
+	color: #4f4f4f;
+	background-color: #f9f9f9;
+	font-family: Arial;
+	font-size: 14px;
+	border-width: 280px;
+	padding: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border: 1px #e0e0e0;
+	text-align: center
+}
+#lablec {
+	color: #808080;
+	background-color: #efefef;
+	font-family: Arial;
+	font-size: 14px;
+	clear:both;
+	width: 1085px;
+	margin: 0px;
+	padding: 20px;
+	text-align: center
+}
+h1 {
+	color: #333333;	
+	font-size: 32px
+}
+h2 {
+	color:#f15d22;
+	font-size: 24px
+}
+img {
+	width: 500px;
+	display: block;
+}
+a {
+	text-decoration: none;
+	font-style: bold;
+	color: #f15d22
+}
+a:hover{
+	color: #a0a0a0;
+}
